@@ -7,7 +7,9 @@ Abstract:
 Geo-localisation refers to the process of precisely locating the geographical location or position of an object. Identifying an object's position on Earth using its longitude and latitude helps us to pinpoint its exact location with respect to any other location which is used in various applications such as GPS, mapping, etc. Drones, also known as unmanned aerial vehicles (UAVs), have risen in popularity in recent years due to their capacity to collect high-quality multimedia data from the sky. Applications including aerial photography, videography, mapping, agriculture, geo-localization, drone delivery, event detection and distribution have all become much more feasible as a result.
 The first task is Drone-view target localization which involves locating the target building by finding the most similar satellite-view image for a given drone-view image. The second task is Drone navigation which involves the drone finding the most relevant place in its flight history to navigate back to the target place in a given satellite-view image.
 
+
 ![image](https://github.com/abineha/Geo-Localization/assets/101180980/1cec58c9-88d0-4270-95fe-fa70633cc51b)
+
 
  
  Figure 1: A cross-view matching example between three platforms, i.e., satellite, drone and ground. 
