@@ -25,7 +25,7 @@ To enhance the network training with instance-wise exemplars, we used the Hard E
  
  Ltri(Ai , Pi , Ni,k) = max(0, m + dp(i) − dn(i, k))
  
- , where m is the max-margin, dp(i) represents the squared Euclidean distance between Ai and Pi , dn(i, k) represents the squared Euclidean distance between Ai and Ni,k. 
+ where m is the max-margin, dp(i) represents the squared Euclidean distance between Ai and Pi , dn(i, k) represents the squared Euclidean distance between Ai and Ni,k. 
 
 The triplet loss strategy ensures that two examples with the same label have their embeddings close together in the embedding space and two examples with different labels have their embeddings far away.
 
