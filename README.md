@@ -9,7 +9,8 @@ The first task is Drone-view target localization which involves locating the tar
 
 ![image](https://github.com/abineha/Geo-Localization/assets/101180980/1cec58c9-88d0-4270-95fe-fa70633cc51b)
 
-Figure 1: A cross-view matching example between three platforms, i.e., satellite, drone and ground. 
+ 
+ Figure 1: A cross-view matching example between three platforms, i.e., satellite, drone and ground. 
 
 
 The motivation is to simulate the real- world geo-localization scenario by utilizing an extremely large satellite-view pool. We have used the current University-1652 dataset with extra 167,486 satellite- view gallery distractors. These distractor satellite- view images have a size of 1024 × 1024 and are obtained by cutting orthophoto images of real urban and surrounding areas.
